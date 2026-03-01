@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, it's nice to meet you! I'm Paige!
 
 <!--
 **paigesay/paigesay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
