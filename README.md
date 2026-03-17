@@ -29,10 +29,6 @@ paigesay@github
 </table>
 
 ```
-
-
-```
-
 CATching bugs in code...
                               
        \`*-.    [me]              
