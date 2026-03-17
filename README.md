@@ -1,10 +1,10 @@
-<table>
-  <tr>
-    <td valign="top">
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="top" style="border: none; padding-right: 24px;">
       <pre>
  _____________________________________
 &lt; Welcome to my personal github page! &gt;
- ------------------------------------- 
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -12,7 +12,7 @@
                 ||     ||
       </pre>
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <pre>
 paigesay@github
 -------------------------
