@@ -1,16 +1,47 @@
-## Hi, it's nice to meet you! I'm Paige!
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<!--
-**paigesay/paigesay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+paigesay@github
+-------------------------
+🏫 Computer Science Undergrad @ CSUF
+🔎 Currently starting researh for Multi-Agent Reinforcment Learning
+🌱 Working on Professional Development
+🔭 Interested in Data Science and Machine Learning
+💖 In a live-hate relationship with debugging
+🎨 Loves cats, cute things, hiking and video games!
+🎧 Loves indie, pop, rock and EDM
+```
 
-Here are some ideas to get you started:
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
+
+CATching bugs in code...
+                              
+       \`*-.    [me]              
+        )  _`-.                 
+       .  : `. .                
+       : _   '  \               
+       ; *` _.   `*-._          
+       `-.-'          `-.       
+         ;       `       `.     
+         :.       .        \    
+         . \  .   :   .-'   .   
+         '  `+.;  ;  '      :   
+         :  '  |    ;       ;-. 
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*' 
+      `*-*   `*-*  `*-*'
+```
