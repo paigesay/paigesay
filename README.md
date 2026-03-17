@@ -17,7 +17,7 @@
 paigesay@github
 -------------------------
 🏫 Computer Science Undergrad @ CSUF
-🔎 Currently starting research for Multi-Agent Reinforcement Learning
+🔎 Currently researching Multi-Agent Reinforcement Learning
 🌱 Working on Professional Development
 🔭 Interested in Data Science and Machine Learning
 💖 In a love-hate relationship with debugging
